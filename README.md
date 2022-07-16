@@ -10,14 +10,13 @@
 | 最終学歴 | 九州工業大学 |
 
 ## 各種アカウント
-
-| key | value |
-| --- | --- |
-| github |     |
-| facebook |     |
-|     |     |
+* [github](https://github.com/syuh31)
+* [LinkedIn](https://www.linkedin.com/in/%E5%91%A8%E5%B9%B3-%E5%B1%B1%E6%9C%AC-2271271ab/)
 
 ## 保有スキル
+
+### メインスキル
+* Flutter, Laravel
 
 | 領域  |     |
 | --- | --- |
@@ -27,6 +26,7 @@
 | AWS | Serverless, S3, CodeBuild, APIGateway, IAM |
 | DB, KVS | mysql, dynamoDB |
 | 言語  | C, C++, C#, Java, Js, ts, python, dart, php, vue, swift, Objective-C |
+| その他 | GitHub, P4, Figma, Tableau, Slack, Backlog, Redmine, Pytorch, Wireshark, RTSP, ffmpeg |
 
 Flutterによるネイティブアプリを0から作り上げる事ができる
 
@@ -59,18 +59,18 @@ AWSのインフラ側と協力しCodeBuildやServerlessの環境を0から作り
   
 - インフラメンバーと連携しCodeBuildによる自動デプロイ環境構築
   
-- (Theta PluginとしてRTSP Streaming機能を実装)[THETA RTSP Streaming | RICOH THETA Plug-in Store](https://pluginstore.theta360.com/plugins/com.sciencearts.rtspstreaming/)
+- [Theta PluginとしてRTSP Streaming機能を実装](https://pluginstore.theta360.com/plugins/com.sciencearts.rtspstreaming/)
   
-- （臨床不整脈映像化システムExtraMappingの作成）[http://square.umin.ac.jp/~ash/extramap.html]
+- [臨床不整脈映像化システムExtraMappingの作成](http://square.umin.ac.jp/~ash/extramap.html)
   
-- (DeepSpeech)[][GitHub - mozilla/DeepSpeech: DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.](https://github.com/mozilla/DeepSpeech)を使った機械学習による音声認識モデルの作成(まともなものはできなかった)
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)を使った機械学習による音声認識モデルの作成(まともなものはできなかった)
   
 
 ## 職務経歴
 
 ### 株) Pascalia Asia (Valuence)　2021/09 〜 現在
 
-顧客情報を提供するSaaS、ToC向けのネイティブアプリ開発などに従事。バックエンド側の開発環境を0から作成したり、Native側の開発をオフショアメンバーに依頼する業務などを行う。技術的にリードし新しい要素をプロジェクトに導入するなどする。
+顧客情報を提供するSaaS、ToC向けのネイティブアプリ開発などに従事。バックエンド側の開発環境を0から作成、Native側の開発をオフショアメンバーに依頼する業務などを行う。技術的にリードし新しい要素をプロジェクトに導入するなどする。
 
 - 顧客SaaS
   
@@ -87,7 +87,7 @@ AWSのインフラ側と協力しCodeBuildやServerlessの環境を0から作り
 - ToC
   
   - 10名
-    
+
   - Backend メンバー
     
   - Native リーダー?
