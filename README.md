@@ -10,7 +10,7 @@
 | 最終学歴 | 九州工業大学 |
 
 ## 各種アカウント
-* [github](https://github.com/syuh31)
+* [github](https://github.com/syuh31/curriculum_vitae)
 * [LinkedIn](https://www.linkedin.com/in/%E5%91%A8%E5%B9%B3-%E5%B1%B1%E6%9C%AC-2271271ab/)
 
 ## 保有スキル
@@ -23,7 +23,7 @@
 | Native | Flutter, Android(Java), IOS(Swift) |
 | Webバックエンド | Nodejs, Larabel, CakePHP |
 | Webフロントエンド | Nuxt, Vue, CakePHP |
-| AWS | Serverless, S3, CodeBuild, APIGateway, IAM |
+| AWS | Serverless, S3, CloudFront, CodeBuild, APIGateway, IAM |
 | DB, KVS | mysql, dynamoDB |
 | 言語  | C, C++, C#, Java, Js, ts, python, dart, php, vue, swift, Objective-C |
 | その他 | GitHub, P4, Figma, Tableau, Slack, Backlog, Redmine, Pytorch, Wireshark, RTSP, ffmpeg |
