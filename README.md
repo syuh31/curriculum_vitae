@@ -21,7 +21,7 @@
 | 領域  |     |
 | --- | --- |
 | Native | Flutter, Android(Java), IOS(Swift) |
-| Webバックエンド | Nodejs, Larabel, CakePHP |
+| Webバックエンド | Nodejs, Larabel, CakePHP, Fastify, prisma |
 | Webフロントエンド | Nuxt, Vue, CakePHP |
 | AWS | Serverless, S3, CloudFront, CodeBuild, APIGateway, IAM |
 | DB, KVS | mysql, dynamoDB |
